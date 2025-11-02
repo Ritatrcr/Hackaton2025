@@ -58,8 +58,12 @@ https://www.canva.com/design/DAG3j9Br0KI/Zr4iRfUXQmCcqqcbNHoWOw/edit?utm_content
 [PDF de la socumentacion](https://github.com/Sabana-Hack-2025/Hackaton2025/blob/main/Goliaths/Documentacion.pdf)
 
 ## Link a la carpeta del prototipo y simulacion del sistema IOT para descargar
-[Processing](https://github.com/Sabana-Hack-2025/Hackaton2025/blob/main/Goliaths/hnack.zip)
-![Simulación IoT en acción](./animacion.gif)
+
+[Descarga Zip de Processing](https://github.com/Sabana-Hack-2025/Hackaton2025/blob/main/Goliaths/hnack.zip)
+
+<p align="center">
+  <img src="./animacion.gif" width="400" alt="Simulación IoT en acción">
+</p>
 
 
 
