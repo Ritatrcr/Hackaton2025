@@ -5,7 +5,7 @@ Proyecto del equipo **Goliaths** para Sabana Hack 2025 💙
 # AguaConCiencia
 
 ## Descripción
-Es una solución integral de resiliencia comunitaria frente a inundaciones, que combina tecnología IoT, ingeniería natural y acción local. El sistema cuenta con una red de sensores LoRa alimentados con paneles solares, capaces de monitorear en tiempo real variables hidrológicas como precipitación (pluviómetro), nivel del agua (sensor infrarrojo) y sedimentación en puntos críticos del río.
+Es una solución integral de resiliencia comunitaria frente a inundaciones, que combina tecnología IoT, ingeniería natural y acción local. El sistema cuenta con una red de sensores LoRa alimentados con paneles solares, capaces de monitorear en tiempo real variables hidrológicas como precipitación (pluviómetro), nivel del agua (sensor infrarrojo) y a sedimentación en puntos críticos del río.
 
 Cuando se detectan condiciones de riesgo —por ejemplo, lluvias intensas o aumento repentino del nivel y sedimentos— el sistema activa alertas locales inmediatas mediante luces y sirenas comunitarias, y de forma simultánea envía notificaciones automáticas a las autoridades competentes. Los datos recopilados se visualizan en un dashboard en la nube, que permite un seguimiento institucional continuo y registro histórico.
 
