@@ -55,25 +55,25 @@ El prototipo actual demuestra cómo la tecnología puede potenciar el trabajo pr
 
 ## **Flujo de Datos**
 
-![Flujo1](FlujoDeDatos1.png)
-![Flujo2](FlujoDeDatos2.png)
+![Flujo1](imagenes/FlujoDeDatos1.png)
+![Flujo2](imagenes/FlujoDeDatos2.png)
 
 ## Imágenes de Prototipo Funcional Canal WhatsApp
 
-![WhastApp1](CanalWhatsApp1.jpg)
-![WhatsApp2](CanalWhatsApp2.jpg)
-![WhatsApp3](CanalWhatsApp3.jpg)
+![WhastApp1](imagenes/CanalWhatsApp1.jpg)
+![WhatsApp2](imagenes/CanalWhatsApp2.jpg)
+![WhatsApp3](imagenes/CanalWhatsApp3.jpg)
 
 ## Imágenes de Prototipo Funcional Dashboard
 
-![Dashboard1](Dashboard1.jpg)
-![Dashboard2](DashBoard2.jpg)
-![Dashboard3](DashBoard3.jpg)
+![Dashboard1](imagenes/Dashboard1.jpg)
+![Dashboard2](imagenes/DashBoard2.jpg)
+![Dashboard3](imagenes/DashBoard3.jpg)
 
 ## Imágenes de Prototipo Funcional Alarmas
 
-![Alarmas1](Alarmas1.jpg)
-![Alarmas2](Alarmas2.jpg)
+![Alarmas1](imagenes/Alarmas1.jpg)
+![Alarmas2](imagenes/Alarmas2.jpg)
 
 ## Link al Repositorio de la Solución
 
