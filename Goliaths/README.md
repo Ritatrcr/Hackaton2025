@@ -2,7 +2,7 @@
 
 Proyecto del equipo **Goliaths** para Sabana Hack 2025 💙
 
-# AguaConCiencia
+# AguaClara
 
 ## Descripción
 Es una solución integral de resiliencia comunitaria frente a inundaciones, que combina tecnología IoT, ingeniería natural y acción local. El sistema cuenta con una red de sensores LoRa alimentados con paneles solares, capaces de monitorear en tiempo real variables hidrológicas como precipitación (pluviómetro), nivel del agua (sensor infrarrojo) y a sedimentación en puntos críticos del río.
